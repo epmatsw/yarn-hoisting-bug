@@ -1,0 +1,11 @@
+{
+  "name": "yarn-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "workspaces": [
+    "a",
+    "b"
+  ],
+  "private": true
+}
